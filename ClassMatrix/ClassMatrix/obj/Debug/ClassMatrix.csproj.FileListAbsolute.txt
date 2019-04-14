@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\C# Дударь\ClassMatrix\ClassMatrix\bin\Debug\ClassMatrix.exe.config
+C:\Users\User\Desktop\C# Дударь\ClassMatrix\ClassMatrix\bin\Debug\ClassMatrix.exe
+C:\Users\User\Desktop\C# Дударь\ClassMatrix\ClassMatrix\bin\Debug\ClassMatrix.pdb
+C:\Users\User\Desktop\C# Дударь\ClassMatrix\ClassMatrix\obj\Debug\ClassMatrix.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\C# Дударь\ClassMatrix\ClassMatrix\obj\Debug\ClassMatrix.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Дударь\ClassMatrix\ClassMatrix\obj\Debug\ClassMatrix.exe
+C:\Users\User\Desktop\C# Дударь\ClassMatrix\ClassMatrix\obj\Debug\ClassMatrix.pdb
